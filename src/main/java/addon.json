@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "FriendViewer",
+  "mainClass": "de.maskfactory.MaskAddon.Main",
+  "author": "Frederic | DieMaskeLP",
+  "description": "Shows your friends ingame.",
+  "category": 2,
+  "icon": "https://i.ibb.co/hLPyh7t/Die-Maske-Kanalbild.jpg",
+  "version": 1
+}
