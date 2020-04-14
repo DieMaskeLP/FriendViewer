@@ -43,6 +43,10 @@ public class OnlineFriendCount extends SimpleModule {
         return new ControlElement.IconData(Material.EMERALD);
     }
 
+    @Override
+    public String getControlName() {
+        return "Online Friends";
+    }
 
 
     @Override
