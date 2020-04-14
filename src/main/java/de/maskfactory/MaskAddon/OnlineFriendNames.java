@@ -27,6 +27,11 @@ public class OnlineFriendNames extends SimpleTextModule {
     }
 
     @Override
+    public String getControlName() {
+        return "Online Friends";
+    }
+
+    @Override
     public String getDescription() {
         return "Shows the names of currently online friends.";
     }
